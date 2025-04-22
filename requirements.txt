@@ -1,0 +1,10 @@
+streamlit
+pandas
+sqlite3
+dotenv
+crewai
+langchain
+langchain_openai
+langchai_community
+statsmodels
+plotly
